@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# By Montana Mendy
-
 # To clear the default iptables
 
 rm /etc/sysconfig/iptables
